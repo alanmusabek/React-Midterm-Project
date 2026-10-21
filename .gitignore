@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+tmp/
+*.local
+.DS_Store
+.openai/
+START-HERE.md
+docs/
+FOR-ME/
